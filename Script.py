@@ -199,9 +199,9 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ @Request_Corner1</b>
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 𒆜𓆩Dᴀʀᴇ Dᴇᴠɪʟ𓆩 『🇮🇳』
-• ᴜꜱᴇʀɴᴀᴍᴇ : @zsbhere
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/zsbhere'>𓆩Dᴀʀᴇ Dᴇᴠɪʟ𓆩࿐</a></b>
+• ꜰᴜʟʟ ɴᴀᴍᴇ : ARYAN
+• ᴜꜱᴇʀɴᴀᴍᴇ : @THESavageBOe1
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/THESavageBOe1'>ARYAN</a></b>
 """
 
     KD_IMDB = """
