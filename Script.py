@@ -190,7 +190,7 @@ Rᴇᴀsᴏɴs
 𝟸) Tʏᴘᴇ Nᴀᴍᴇ Wɪᴛʜ Yᴇᴀʀ
 
 𝟹) Mᴏᴠɪᴇ Is Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇ Dᴀᴛᴀʙᴀsᴇ 
-Rᴇᴘᴏʀᴛ Hᴇʀᴇ @Request_Corner1</b>
+Rᴇᴘᴏʀᴛ Hᴇʀᴇ @MOVEISGRO</b>
 """
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ...
@@ -199,9 +199,9 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ @Request_Corner1</b>
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 𒆜𓆩Dᴀʀᴇ Dᴇᴠɪʟ𓆩 『🇮🇳』
-• ᴜꜱᴇʀɴᴀᴍᴇ : @zsbhere
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/zsbhere'>𓆩Dᴀʀᴇ Dᴇᴠɪʟ𓆩࿐</a></b>
+• ꜰᴜʟʟ ɴᴀᴍᴇ : ARYAN
+• ᴜꜱᴇʀɴᴀᴍᴇ : @THESavageBOe1
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/HESavageBOe1'>ARYAN</a></b>
 """
 
     KD_IMDB = """
@@ -228,10 +228,6 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ @Request_Corner1</b>
 • /link <code>- ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ.<code>
 • /batch <code>- ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟɪɴᴋ ғᴏʀ ᴍᴜʟᴛɪᴘʟᴇ ᴍᴇᴅɪᴀ.<code>
 
-<b>Exᴀᴍᴘʟᴇ:</b>
-<code>/batch https://t.me/Movies_Corner20/1 
-https://t.me/Movies_Corner20/9</code>
-"""
 
     KD_CNL = """
 <b>⍟ Cʜᴀɴɴᴇʟs & Gʀᴏᴜᴘs Mᴏᴅᴜʟᴇ ⍟</b>
