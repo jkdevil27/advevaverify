@@ -11,16 +11,16 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/zsbhere>𓆩Dᴀʀᴇ Dᴇᴠɪʟ𓆩 </a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/THESavageBOe1>𓆩Dᴀʀᴇ Dᴇᴠɪʟ𓆩 </a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/CornersOfficial>Cᴏʀɴᴇʀꜱ Oғғɪᴄɪᴀʟ ⚡</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/trickyAman2>AMAN</a></b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT ="""
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ Aɴ Closed Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
 
-- Sᴏᴜʀᴄᴇ - <a href=https://t.me/zsbhere>Owner 😎</a></b>
+- Sᴏᴜʀᴄᴇ - <a href=https://t.me/THESavageBOe1>Owner 😎</a></b>
 """
  
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
