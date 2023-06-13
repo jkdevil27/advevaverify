@@ -24,8 +24,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                   ],[
-                    InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/CornersOfficial'),
-                    InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/Request_Corner1')
+                    InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/Sahil_official_here'),
+                    InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/Itz_Sahil_Official')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         kd = await message.reply_photo(
@@ -263,7 +263,7 @@ async def start(client, message):
             if IS_VERIFY and not await check_verification(client, message.from_user.id):
                 btn = [[
                     InlineKeyboardButton("⚠️Vᴇʀɪғʏ⚠️", url=await get_token(client, message.from_user.id, f"https://telegram.me/{temp.U_NAME}?start=", file_id)),
-                    InlineKeyboardButton("❗Hᴏᴡ Tᴏ Vᴇʀɪғʏ❗", url="https://t.me/how_to_dwnload/22")
+                    InlineKeyboardButton("❗Hᴏᴡ Tᴏ Vᴇʀɪғʏ❗", url="https://t.me/link_to_movies/3")
                 ]]
                 return await message.reply_text(
                     text=f"<b>Hᴇʏ Tʜᴇʀᴇ {message.from_user.mention}\n\n📌 <u>Yᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪғɪᴇᴅ ᴛᴏᴅᴀʏ,\nPʟᴇᴀsᴇ ᴠᴇʀɪғʏ ᴀɴᴅ ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss ᴜɴᴛɪʟ ɴᴇxᴛ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴡʜɪᴄʜ ɪs ᴀғᴛᴇʀ 𝟸 ʜᴏᴜʀs ғʀᴏᴍ ɴᴏᴡ.</u></b>",
@@ -313,7 +313,7 @@ async def start(client, message):
     if IS_VERIFY and not await check_verification(client, message.from_user.id):
         btn = [[
             InlineKeyboardButton("⚠️Vᴇʀɪғʏ⚠️", url=await get_token(client, message.from_user.id, f"https://telegram.me/{temp.U_NAME}?start=", file_id)),
-            InlineKeyboardButton("❗Hᴏᴡ Tᴏ Vᴇʀɪғʏ❗", url="https://t.me/how_to_dwnload/22")
+            InlineKeyboardButton("❗Hᴏᴡ Tᴏ Vᴇʀɪғʏ❗", url="https://t.me/link_to_movies/3")
         ]]
         return await message.reply_text(
             text=f"<b>Hᴇʏ Tʜᴇʀᴇ {message.from_user.mention}\n\n📌 <u>Yᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪғɪᴇᴅ ᴛᴏᴅᴀʏ,\nPʟᴇᴀsᴇ ᴠᴇʀɪғʏ ᴀɴᴅ ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss ᴜɴᴛɪʟ ɴᴇxᴛ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴡʜɪᴄʜ ɪs ᴀғᴛᴇʀ 𝟸 ʜᴏᴜʀs ғʀᴏᴍ ɴᴏᴡ.</u></b>",
