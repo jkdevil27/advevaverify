@@ -740,13 +740,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
             )
     elif query.data == "kd_cnl":
             cnlbtn = [[
-                      InlineKeyboardButton('Bᴏᴛ Lᴏɢs', url="https://t.me/CLASSBOTZ")
+                      InlineKeyboardButton('Bᴏᴛ Lᴏɢs', url="https://t.me/Sahil_Official_here")
                      ], [
-                      InlineKeyboardButton('Gʀᴏᴜᴘ', url='t.me/MOVEISGRO'),
-                      InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='t.me/trickyAman2')
+                      InlineKeyboardButton('Gʀᴏᴜᴘ', url='https://te.legra.ph/s%E1%B4%80%CA%9C%C9%AA%CA%9F-06-13'),
+                      InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='https://te.legra.ph/s%E1%B4%80%CA%9C%C9%AA%CA%9F-06-13')
                      ], [
-                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='t.me/SOLDHEHEH'),
-                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='t.me/trickyAman2')
+                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='t.me/itz_sahil_official'),
+                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='t.me/Sahil_Official_Here')
                      ], [
                       InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
                      ]]
