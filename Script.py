@@ -112,7 +112,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>👥 ɢʀᴏᴜᴘs:</b> <code>{}</code>
 <b>📉 ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
 
-<b><a href=https://t.me/CornersOfficial>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ Cᴏʀɴᴇʀꜱ Oғғɪᴄɪᴀʟ</a></b>"""
+<b><a href=https://t.me/Itz_Sahil_Official>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ sᴀʜɪʟ </a></b>"""
 
     ADMIN_STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>
 
