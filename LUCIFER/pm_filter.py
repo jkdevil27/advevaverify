@@ -745,8 +745,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                       InlineKeyboardButton('Gʀᴏᴜᴘ', url='https://te.legra.ph/s%E1%B4%80%CA%9C%C9%AA%CA%9F-06-13'),
                       InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='https://te.legra.ph/s%E1%B4%80%CA%9C%C9%AA%CA%9F-06-13')
                      ], [
-                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://te.legra.ph/s%E1%B4%80%CA%9C%C9%AA%CA%9F-06-13'),
-                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://te.legra.ph/s%E1%B4%80%CA%9C%C9%AA%CA%9F-06-13')
+                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/itz_sahil_official'),
+                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/sahil_official_here')
                      ], [
                       InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
                      ]]
