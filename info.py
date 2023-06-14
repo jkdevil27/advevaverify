@@ -44,8 +44,8 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Channel Button Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Sahil_Official_Here/13')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Sahil_Official_here')
+GRP_LNK = environ.get('GRP_LNK', 'https://te.legra.ph/s%E1%B4%80%CA%9C%C9%AA%CA%9F-06-13')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://te.legra.ph/s%E1%B4%80%CA%9C%C9%AA%CA%9F-06-13')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Itz_Sahil_official')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
