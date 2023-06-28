@@ -740,13 +740,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
             )
     elif query.data == "kd_cnl":
             cnlbtn = [[
-                      InlineKeyboardButton('Bᴏᴛ Lᴏɢs', url="https://t.me/Sahil_Official_here")
+                      InlineKeyboardButton('Bᴏᴛ Lᴏɢs', url="https://graph.org/this-feature-isnt-available-06-28")
                      ], [
-                      InlineKeyboardButton('Gʀᴏᴜᴘ', url='https://te.legra.ph/s%E1%B4%80%CA%9C%C9%AA%CA%9F-06-13'),
-                      InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='https://te.legra.ph/s%E1%B4%80%CA%9C%C9%AA%CA%9F-06-13')
+                      InlineKeyboardButton('Gʀᴏᴜᴘ', url='https://t.me/bingeplix'),
+                      InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='https://t.me/bingeplix')
                      ], [
-                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/itz_sahil_official'),
-                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/sahil_official_here')
+                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/ASTROFLIX'),
+                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/bingeplix')
                      ], [
                       InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
                      ]]
