@@ -22,8 +22,8 @@ TIMEZONE = environ.get("TIMEZONE", "Asia/Kolkata")
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://graph.org/file/b67b822219d7f58bcee03.jpg https://graph.org/file/bb51028763f61f65ab2bb.jpg https://graph.org/file/7e60fb4d2e5bfecee9a73.jpg https://graph.org/file/684f7633a84564cbdddcd.jpg ')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/b67b822219d7f58bcee03.jpg")
+PICS = (environ.get('PICS', 'https://telegra.ph/file/3060e49b2bfd9df5806a3.jpg https://telegra.ph/file/8fd3a8287ed68111a22dd.jpg')).split()
+NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/3060e49b2bfd9df5806a3.jpg")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/684f7633a84564cbdddcd.jpg")
 NEWGRP = environ.get("NEWGRP", "https://graph.org/file/bb51028763f61f65ab2bb.jpg")
 
@@ -44,14 +44,14 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Channel Button Links
-GRP_LNK = environ.get('GRP_LNK', 'https://te.legra.ph/s%E1%B4%80%CA%9C%C9%AA%CA%9F-06-13')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://te.legra.ph/s%E1%B4%80%CA%9C%C9%AA%CA%9F-06-13')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Itz_Sahil_official')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+pxOFsqtqm44wZmI9')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/bingeplix')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '@astroflix')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', 0))
-HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/link_to_movies/3')
+HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/bingeplix/324')
 
 # Log Channels
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
@@ -63,7 +63,7 @@ VERIFY_PIC = environ.get("VERIFY_PIC", "https://telegra.ph/file/e74254fbd66ff0b6
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "True")), True)
-CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "[{file_name}](https://t.me/Movies_Collection_Robot)\n\n<b>•────•────────•────•\n\n©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [CO HERE](https://t.me/Movies_Collection_Robot)</b>")
+CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "[{file_name}](https://t.me/MOVIE_SEARCH_TG_BOT)\n\n<b>•────•────────•────•\n\n©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [CO HERE](https://t.me/MOVIE_SEARCH_TG_BOT)</b>")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "<b>{mention}'s Qᴜᴇʀʏ ☞ <code>{query}</code>\n\n<b>🏷 Tɪᴛʟᴇ</b> : <a href={url}>{title}</a>\n\n🌟 Rᴀᴛɪɴɢ : <a href={url}/ratings>{rating}</a> / 10\n💀 Rᴇʟᴇᴀsᴇ :  <b>{release_date}</b> <b>{countries}</b>\n\n🎭 Gᴇɴʀᴇs : <b>#{genres}</b></b>\n\n<b>🔅 Pᴏᴡᴇʀᴇᴅ Bʏ : {message.chat.title}</b>")
 KD_IMDB_TEMPLATE = environ.get("KD_IMDB_TEMPLATE", "<b><b>🏷 Tɪᴛʟᴇ</b> : <a href={url}>{title}</a>\n\n🌟 Rᴀᴛɪɴɢ : <a href={url}/ratings>{rating}</a> / 10\n💀 Rᴇʟᴇᴀsᴇ :  <b>{release_date}</b> <b>{countries}</b>\n\n🎭 Gᴇɴʀᴇs : <b>{genres}</b></b>\n\n<b>📖 Sᴛᴏʀʏ Lɪɴᴇ :</b> <code>{plot}</code>")
